@@ -1,0 +1,15 @@
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+*.csv
+
+# Exclude .NET assemblies from source
+*.dll
+
+ad-terminations/
+gam-groups-everbridge/*/
+kace-reporting/
+ps-add-to-local-admin/
+sql-queries/
+ti-solutions/*/
+ps-autoadminlogon/
